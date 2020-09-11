@@ -1,4 +1,4 @@
-# This project was done with the help of Ken Jee(https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
+# This project was done with the help of [Ken Jee](https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
 **All the code in this project was written with the help of the playlist created by Ken Jee.**
 
 # Data Science Salary Estimator: Project Overview 
